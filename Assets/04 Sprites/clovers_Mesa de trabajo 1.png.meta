@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 5dd4b543070121d43a49bfbedc6075e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6155070701521169715
+    second: clovers_Mesa de trabajo 1_0
+  - first:
+      213: 6987361681087991123
+    second: clovers_Mesa de trabajo 1_1
+  - first:
+      213: 3880600217385899286
+    second: clovers_Mesa de trabajo 1_2
+  - first:
+      213: -1235502578582054580
+    second: clovers_Mesa de trabajo 1_3
+  - first:
+      213: 2394571115713034452
+    second: clovers_Mesa de trabajo 1_4
+  - first:
+      213: -6540186267594162275
+    second: clovers_Mesa de trabajo 1_5
+  - first:
+      213: -5348066840086424659
+    second: clovers_Mesa de trabajo 1_6
+  - first:
+      213: -8450514358328142162
+    second: clovers_Mesa de trabajo 1_7
+  - first:
+      213: -5503075657692951836
+    second: clovers_Mesa de trabajo 1_8
+  - first:
+      213: 5148423921507337619
+    second: clovers_Mesa de trabajo 1_9
+  - first:
+      213: 2912200817087554579
+    second: clovers_Mesa de trabajo 1_10
+  - first:
+      213: 1496096605812057104
+    second: clovers_Mesa de trabajo 1_11
+  - first:
+      213: -7062659086172581846
+    second: clovers_Mesa de trabajo 1_12
+  - first:
+      213: -5631182869162719010
+    second: clovers_Mesa de trabajo 1_13
+  - first:
+      213: -7247023967221212355
+    second: clovers_Mesa de trabajo 1_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2105
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc29a64decbc49aa0800000000000000
+      internalID: -6155070701521169715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_1
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2105
+        width: 525
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d0d66ad6818f060800000000000000
+      internalID: 6987361681087991123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_2
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2105
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61517906659aad530800000000000000
+      internalID: 3880600217385899286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_3
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2105
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49998463fc9adee0800000000000000
+      internalID: -1235502578582054580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_4
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 2105
+        width: 525
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d87c752eb93b3120800000000000000
+      internalID: 2394571115713034452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_5
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 2105
+        width: 525
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f7923bd379c35a0800000000000000
+      internalID: -6540186267594162275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1137
+        width: 527
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35a915b89d7c5b0800000000000000
+      internalID: -5348066840086424659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_7
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1142
+        width: 525
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6538eb6fdb9ba80800000000000000
+      internalID: -8450514358328142162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_8
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1142
+        width: 527
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eacc1b88d521a3b0800000000000000
+      internalID: -5503075657692951836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_9
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1142
+        width: 527
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39581927740e27740800000000000000
+      internalID: 5148423921507337619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_10
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1142
+        width: 525
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3142b11b6373a6820800000000000000
+      internalID: 2912200817087554579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_11
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 1142
+        width: 525
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0146813bfe333c410800000000000000
+      internalID: 1496096605812057104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 168
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a209ffe0bf46cfd90800000000000000
+      internalID: -7062659086172581846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 198
+        width: 527
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed88a4a04050ad1b0800000000000000
+      internalID: -5631182869162719010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clovers_Mesa de trabajo 1_14
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 198
+        width: 525
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b990329166d6b90800000000000000
+      internalID: -7247023967221212355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      clovers_Mesa de trabajo 1_0: -6155070701521169715
+      clovers_Mesa de trabajo 1_1: 6987361681087991123
+      clovers_Mesa de trabajo 1_10: 2912200817087554579
+      clovers_Mesa de trabajo 1_11: 1496096605812057104
+      clovers_Mesa de trabajo 1_12: -7062659086172581846
+      clovers_Mesa de trabajo 1_13: -5631182869162719010
+      clovers_Mesa de trabajo 1_14: -7247023967221212355
+      clovers_Mesa de trabajo 1_2: 3880600217385899286
+      clovers_Mesa de trabajo 1_3: -1235502578582054580
+      clovers_Mesa de trabajo 1_4: 2394571115713034452
+      clovers_Mesa de trabajo 1_5: -6540186267594162275
+      clovers_Mesa de trabajo 1_6: -5348066840086424659
+      clovers_Mesa de trabajo 1_7: -8450514358328142162
+      clovers_Mesa de trabajo 1_8: -5503075657692951836
+      clovers_Mesa de trabajo 1_9: 5148423921507337619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

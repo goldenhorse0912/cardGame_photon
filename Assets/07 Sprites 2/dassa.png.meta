@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 5c89adcd2da8e944091e3fa062c152b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7958052046629562402
+    second: CORAZONES-14_0
+  - first:
+      213: 5576237087214791334
+    second: CORAZONES-14_1
+  - first:
+      213: 3588745049844988660
+    second: CORAZONES-14_2
+  - first:
+      213: 1359324126094932173
+    second: CORAZONES-14_3
+  - first:
+      213: -3947840203152216492
+    second: CORAZONES-14_4
+  - first:
+      213: 3217904602604001063
+    second: CORAZONES-14_5
+  - first:
+      213: 7428620838408997290
+    second: CORAZONES-14_6
+  - first:
+      213: -4698488536874803181
+    second: CORAZONES-14_7
+  - first:
+      213: -9108135642717773661
+    second: CORAZONES-14_8
+  - first:
+      213: 8900541669295503788
+    second: CORAZONES-14_9
+  - first:
+      213: -3611735343285725324
+    second: CORAZONES-14_10
+  - first:
+      213: 8090040743829484996
+    second: CORAZONES-14_11
+  - first:
+      213: 6957384476570368657
+    second: CORAZONES-14_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CORAZONES-14_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2707
+        width: 640
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228ec6f3c2ea07e60800000000000000
+      internalID: 7958052046629562402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_1
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2707
+        width: 638
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaebce2616c26d40800000000000000
+      internalID: 5576237087214791334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_2
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2707
+        width: 640
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab37ddb98cdc130800000000000000
+      internalID: 3588745049844988660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_3
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 2707
+        width: 638
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8b186371a4dd210800000000000000
+      internalID: 1359324126094932173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1830
+        width: 640
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e2b1570447639c0800000000000000
+      internalID: -3947840203152216492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1830
+        width: 638
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7275e47df2b48ac20800000000000000
+      internalID: 3217904602604001063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_6
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1830
+        width: 640
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9ce644b43c71760800000000000000
+      internalID: 7428620838408997290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_7
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1830
+        width: 638
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3102552c19d9bceb0800000000000000
+      internalID: -4698488536874803181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 952
+        width: 640
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0abb1d3e6699180800000000000000
+      internalID: -9108135642717773661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 952
+        width: 638
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9bbeabd73158b70800000000000000
+      internalID: 8900541669295503788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_10
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 952
+        width: 640
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771bb057d980edc0800000000000000
+      internalID: -3611735343285725324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_11
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 952
+        width: 638
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b4629139954070800000000000000
+      internalID: 8090040743829484996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORAZONES-14_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 640
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a3bc3d1589d8060800000000000000
+      internalID: 6957384476570368657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CORAZONES-14_0: 7958052046629562402
+      CORAZONES-14_1: 5576237087214791334
+      CORAZONES-14_10: -3611735343285725324
+      CORAZONES-14_11: 8090040743829484996
+      CORAZONES-14_12: 6957384476570368657
+      CORAZONES-14_2: 3588745049844988660
+      CORAZONES-14_3: 1359324126094932173
+      CORAZONES-14_4: -3947840203152216492
+      CORAZONES-14_5: 3217904602604001063
+      CORAZONES-14_6: 7428620838408997290
+      CORAZONES-14_7: -4698488536874803181
+      CORAZONES-14_8: -9108135642717773661
+      CORAZONES-14_9: 8900541669295503788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

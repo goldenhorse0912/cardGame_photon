@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: dc74ffeb0c7cb814382e4dcf38aebd7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4935138624690415534
+    second: hearts_Mesa de trabajo 1_0
+  - first:
+      213: 1359374033124019475
+    second: hearts_Mesa de trabajo 1_1
+  - first:
+      213: -529389205159088133
+    second: hearts_Mesa de trabajo 1_2
+  - first:
+      213: 1165239161173808450
+    second: hearts_Mesa de trabajo 1_3
+  - first:
+      213: -9190730522735338380
+    second: hearts_Mesa de trabajo 1_4
+  - first:
+      213: -2919405939850085830
+    second: hearts_Mesa de trabajo 1_5
+  - first:
+      213: -4655312473248081114
+    second: hearts_Mesa de trabajo 1_6
+  - first:
+      213: -3296025723174007534
+    second: hearts_Mesa de trabajo 1_7
+  - first:
+      213: 7173268259926658116
+    second: hearts_Mesa de trabajo 1_8
+  - first:
+      213: 8536415458626475628
+    second: hearts_Mesa de trabajo 1_9
+  - first:
+      213: -2682233260080800404
+    second: hearts_Mesa de trabajo 1_10
+  - first:
+      213: 8045072332305802058
+    second: hearts_Mesa de trabajo 1_11
+  - first:
+      213: -3883177757017472423
+    second: hearts_Mesa de trabajo 1_12
+  - first:
+      213: -8017187802694582704
+    second: hearts_Mesa de trabajo 1_13
+  - first:
+      213: 6878770147542038920
+    second: hearts_Mesa de trabajo 1_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2139
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258940e719dd28bb0800000000000000
+      internalID: -4935138624690415534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_1
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2139
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d4f391b777dd210800000000000000
+      internalID: 1359374033124019475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_2
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2139
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffe09e925b37a8f0800000000000000
+      internalID: -529389205159088133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_3
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2139
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459328e7d2cb2010800000000000000
+      internalID: 1165239161173808450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_4
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 2139
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c150eb847f37080800000000000000
+      internalID: -9190730522735338380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_5
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 2139
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3af110f3cf2c77d0800000000000000
+      internalID: -2919405939850085830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1134
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b5a9178f1056fb0800000000000000
+      internalID: -4655312473248081114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_7
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1134
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dc9af511a2242d0800000000000000
+      internalID: -3296025723174007534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_8
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1134
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c438f0a719c8360800000000000000
+      internalID: 7173268259926658116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_9
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1134
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66959ab1a0777670800000000000000
+      internalID: 8536415458626475628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_10
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1134
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5520af0bc6cad0800000000000000
+      internalID: -2682233260080800404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_11
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 1134
+        width: 527
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43296f59a6d5af60800000000000000
+      internalID: 8045072332305802058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 180
+        width: 525
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9528649676e2c1ac0800000000000000
+      internalID: -3883177757017472423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 180
+        width: 527
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e7bca9b2a3db090800000000000000
+      internalID: -8017187802694582704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearts_Mesa de trabajo 1_14
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 180
+        width: 527
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889fdcff00d467f50800000000000000
+      internalID: 6878770147542038920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hearts_Mesa de trabajo 1_0: -4935138624690415534
+      hearts_Mesa de trabajo 1_1: 1359374033124019475
+      hearts_Mesa de trabajo 1_10: -2682233260080800404
+      hearts_Mesa de trabajo 1_11: 8045072332305802058
+      hearts_Mesa de trabajo 1_12: -3883177757017472423
+      hearts_Mesa de trabajo 1_13: -8017187802694582704
+      hearts_Mesa de trabajo 1_14: 6878770147542038920
+      hearts_Mesa de trabajo 1_2: -529389205159088133
+      hearts_Mesa de trabajo 1_3: 1165239161173808450
+      hearts_Mesa de trabajo 1_4: -9190730522735338380
+      hearts_Mesa de trabajo 1_5: -2919405939850085830
+      hearts_Mesa de trabajo 1_6: -4655312473248081114
+      hearts_Mesa de trabajo 1_7: -3296025723174007534
+      hearts_Mesa de trabajo 1_8: 7173268259926658116
+      hearts_Mesa de trabajo 1_9: 8536415458626475628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

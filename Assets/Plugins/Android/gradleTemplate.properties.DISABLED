@@ -1,0 +1,5 @@
+org.gradle.jvmargs=-Xmx4608m
+org.gradle.parallel=true
+unityStreamingAssets=**STREAMING_ASSETS**
+**ADDITIONAL_PROPERTIES**
+android.aapt2FromMavenOverride=C:/Users/Rakesh Kumar/AppData/Local/Android/Sdk/build-tools/35.0.0/aapt2.exe
