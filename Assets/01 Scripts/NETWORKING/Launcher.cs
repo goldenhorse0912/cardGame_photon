@@ -192,7 +192,7 @@ public class Launcher : MonoBehaviourPunCallbacks
     {
         if (PhotonNetwork.CurrentRoom.PlayerCount >= 2)
         {
-            PhotonNetwork.LoadLevel(3);
+            PhotonNetwork.LoadLevel("03");
         }
     }
     public void Confirmated()

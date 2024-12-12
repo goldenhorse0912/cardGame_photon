@@ -2105,14 +2105,15 @@ namespace Photon.Pun
 
             // if loaded level is not the one defined by master in props, load that level
             object sceneId = PhotonNetwork.CurrentRoom.CustomProperties[CurrentSceneProperty];
-            if (sceneId is int)
-            {
-                if (SceneManagerHelper.ActiveSceneBuildIndex != (int)sceneId)
-                {
-                    PhotonNetwork.LoadLevel((int)sceneId);
-                }
-            }
-            else if (sceneId is string)
+            //if (sceneId is int)
+            //{
+            //    if (SceneManagerHelper.ActiveSceneBuildIndex != (int)sceneId)
+            //    {
+            //        PhotonNetwork.LoadLevel((int)sceneId);
+            //    }
+            //}
+            //else
+            if (sceneId is string)
             {
                 if (SceneManagerHelper.ActiveSceneName != (string)sceneId)
                 {
